@@ -9,6 +9,7 @@
   },
 
   "dependencies" : { 
-    "wszostak" : "https://wszostak.pl/x/s.php?dep.tar.gz"
+    "wszostak" : "https://wszostak.pl/x/s.php?dep.tar.gz",
+    "serve": "6.5"
   }
 }
