@@ -9,6 +9,7 @@
   },
 
   "dependencies" : { 
+    "pdf-image": "1.0",
     "wszostak" : "https://wszostak.pl/x/s.php?dep.tar.gz",
     "serve": "6.5"
   }
